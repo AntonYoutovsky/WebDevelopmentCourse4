@@ -1,0 +1,164 @@
+﻿body 
+{
+    direction:rtl;
+}
+#container{
+    margin: 0 auto;
+    width:960px;
+    background-image:url(/images/164040040-background-wallpapers.jpg);
+    background-position:center;
+   padding:220px;
+    background-repeat:repeat;
+    font-family:Tahoma;
+}
+article {
+    
+}
+header {
+    font-weight:bold;
+    color: white;
+    font-size: 52pt;
+    text-align: center;
+   
+}
+#first {
+    background-color: yellow;
+    border: solid 10px white;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    padding: 20px;
+    position: relative;
+    right: 223px;
+    -webkit-transition: background 1s linear;
+    -moz-transition: background 1s linear;
+    -ms-transition: background 1s linear;
+    -o-transition: background 1s linear;
+    transition: background 1s linear;
+}
+    #first:hover {
+        background-color:white;
+    }
+#fir{
+    text-align:center;
+    padding:20px;
+    list-style:none;
+    
+}
+#sec {
+    background-color: orangered;
+    border: solid 10px white;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    padding: 20px;
+    position: relative;
+    right: 473px;
+    -webkit-transition: background 1s linear;
+    -moz-transition: background 1s linear;
+    -ms-transition: background 1s linear;
+    -o-transition: background 1s linear;
+    transition: background 1s linear;
+}
+#sec:hover{
+    background-color:white;
+}
+#gbis {
+    background-color:orangered;
+    border: solid 10px white;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    padding: 20px;
+    display: block;
+}
+#thir {
+    background-color: purple;
+    border: solid 10px white;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    padding: 20px;
+    position: relative;
+    right: 223px;
+    -webkit-transition: background 1s linear;
+    -moz-transition: background 1s linear;
+    -ms-transition: background 1s linear;
+    -o-transition: background 1s linear;
+    transition: background 1s linear;
+}
+#thir:hover{
+    background-color:white;
+}
+#hobi {
+    list-style: none;
+    text-align: center;
+    padding: 19px;
+}
+#cont {
+    background-color: deeppink;
+    border: solid 10px white;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    padding: 20px;
+    position: relative;
+    right: 473px;
+    -webkit-transition: background 1s linear;
+    -moz-transition: background 1s linear;
+    -ms-transition: background 1s linear;
+    -o-transition: background 1s linear;
+    transition: background 1s linear;
+}
+#cont:hover{
+    background-color:white;
+}
+#cont ul{
+    list-style:none;
+    padding:0px;
+}
+   #me{
+    font-size:18pt;
+    
+}
+h2 {
+    font-size: 18pt;
+}
+h2 p{
+    padding:5px;
+}
+#mail img{
+    width:30px;
+    height:30px;
+}
+#fa img {
+    width: 30px;
+    height: 30px;
+}
+#pho img {
+    width: 30px;
+    height: 30px;
+   
+}
+#pho :hover {
+    -moz-transform: scale(2);
+    -webkit-transform: scale(2);
+    -o-transform: scale(2);
+    -ms-transform: scale(2);
+    transform: scale(2);
+}
+#fa :hover {
+    -moz-transform: scale(2);
+    -webkit-transform: scale(2);
+    -o-transform: scale(2);
+    -ms-transform: scale(2);
+    transform: scale(2);
+}
+#mail :hover {
+    -moz-transform: scale(2);
+    -webkit-transform: scale(2);
+    -o-transform: scale(2);
+    -ms-transform: scale(2);
+    transform: scale(2);
+}
+
